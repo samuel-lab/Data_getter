@@ -1,11 +1,6 @@
 # Standard Python libraries
-datetime
-json
-platform
+customtkinter
 psutil
-socket
-subprocess
-sys
-os
-sqlite3
+py-cpuinfo
+GPUtil
 # Additional libraries (may require special installation steps)
