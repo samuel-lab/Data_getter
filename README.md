@@ -15,13 +15,13 @@ This script gathers various system information and saves it to JSON and TXT file
     ```
     git clone https://github.com/samuel-lab/Data_getter.git
     ```
-2. Install requirements:
-    ```
-    pip install -r requirements.txt
-    ```
-3. Navigate to the project directory:
+2. Navigate to the project directory:
     ```
     cd Data_getter
+    ```
+3. Install requirements:
+    ```
+    pip install -r requirements.txt
     ```
 4. Run the main code:
     ```
