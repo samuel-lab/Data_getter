@@ -1,0 +1,11 @@
+# Standard Python libraries
+datetime
+json
+platform
+psutil
+socket
+subprocess
+sys
+os
+sqlite3
+# Additional libraries (may require special installation steps)
