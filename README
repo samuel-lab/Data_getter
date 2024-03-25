@@ -13,7 +13,7 @@ This script gathers various system information and saves it to JSON and TXT file
 ## Installation
 1. Clone this repository:
     ```
-    git clone https://github.com/samuel-lab/Python-Code-prep.git
+    git clone https://github.com/samuel-lab/Data_getter.git
     ```
 2. Install requirements:
     ```
